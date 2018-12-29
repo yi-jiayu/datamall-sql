@@ -1,0 +1,7 @@
+# generated files
+bus_routes.json
+bus_stops.json
+datamall.sqlite
+
+venv/
+.idea/
