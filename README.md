@@ -6,7 +6,7 @@ LTA DataMall data as an SQLite database
 - Bus routes
 
 ## Generating the database
-If you want to generate the database using the latest data, you will need a DataMall Account Key. Make sure it is an exported environment variable then run `create_db.sh`:
+If you want to generate the database using the latest data, you will need a DataMall Account Key. Make sure it is in an exported environment variable called `DATAMALL_ACCOUNT_KEY` then run `create_db.sh`:
 
 ```console
 $ ./create_db.sh 
