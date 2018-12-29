@@ -5,6 +5,30 @@ LTA DataMall data as an SQLite database
 - Bus stops
 - Bus routes
 
+## Generating the database
+If you want to generate the database using the latest data, you will need a DataMall Account Key. Make sure it is an exported environment variable then run `create_db.sh`:
+
+```console
+$ ./create_db.sh 
+[START] Fetch bus stops
+Fetched 5007 bus stops.
+[END]   Fetch bus stops
+[START] Collect bus stops
+[END]   Collect bus stops
+[START] Write bus stops
+[END]   Write bus stops
+[START] Fetch bus routes
+Fetched 26094 bus routes.
+[END]   Fetch bus routes
+[START] Collect bus routes
+[END]   Collect bus routes
+[START] Write bus routes
+[END]   Write bus routes
+Created sqlite database datamall.sqlite
+Inserted 5007 rows into bus_stops
+Inserted 26094 rows into bus_routes
+```
+
 ## Sample queries
 
 ```console
