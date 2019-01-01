@@ -25,6 +25,7 @@ chr => christian
 cl => close
 co => company
 comm => commission
+comm => community
 corp => corporation
 cp, car park => carpark
 cplx => complex
