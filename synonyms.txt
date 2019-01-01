@@ -114,6 +114,7 @@ trg => training
 trspt => transport
 twr => tower
 twrs => towers
+upp => upper
 veh => vehicle
 warehse => warehouse
 wk => walk
