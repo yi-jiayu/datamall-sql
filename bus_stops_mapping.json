@@ -1,0 +1,52 @@
+{
+  "mappings": {
+    "_doc": {
+      "properties": {
+        "bus_stop_code": {
+          "type": "keyword"
+        },
+        "road_name": {
+          "type": "text",
+          "analyzer": "bus_stop"
+        },
+        "description": {
+          "type": "text",
+          "analyzer": "bus_stop"
+        },
+        "location": {
+          "type": "geo_point"
+        }
+      }
+    }
+  },
+  "settings": {
+    "index": {
+      "analysis": {
+        "analyzer": {
+          "bus_stop": {
+            "tokenizer": "split_on_whitespace_and_slashes",
+            "filter": [
+              "lowercase",
+              "expand_bus_stop_abbreviations"
+            ]
+          }
+        },
+        "tokenizer": {
+          "split_on_whitespace_and_slashes": {
+            "type": "char_group",
+            "tokenize_on_chars": [
+              "whitespace",
+              "/"
+            ]
+          }
+        },
+        "filter": {
+          "expand_bus_stop_abbreviations": {
+            "type": "synonym",
+            "synonyms_path": "synonyms.txt"
+          }
+        }
+      }
+    }
+  }
+}
