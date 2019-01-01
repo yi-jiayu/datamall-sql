@@ -1,120 +1,119 @@
-a'space, aerospace
-advent, adventist
-aft, after
-apt, apartments
-architect, architecture
-ave, avenue
-bef, before
-bet, between
-biz, business
-bldg, building
-blk, block
-blks, blocks
-blvd, boulevard
-br, branch
-bt, bukit
-c,wealth, commonwealth
-cath, cathedral
-cc, community centre, community center
-ch, church
-checkpt, checkpoint
-chr, christian
-cl, close
-co, company
-comm, commission
-corp, corporation
-cp, carpark, car park
-cplx, complex
-cres, crescent
-csc, civil service club
-ct, court
-ctr, centre, center
-ctrl, central
-div, division
-dnv, det norske veritas
-dp, distripark
-dr, drive
-engrg, engineering
-env, environment
-est, estate
-fac, faculty
-fc, food centre
-fty, factory
-gdn, garden
-gdns, gardens
-govt, government, gov
-gr, grove
-hme, home
-hosp, hospital
-hq, headquarters
-hse, house
-hts, heights
-ind, industrial
-insp, inspection
-inst, institute
-int, interchange
-intl, international
-jc, junior college
-jln, jalan
-k, kaliamman
-laba, labar
-lib, library
-lor, lorong
-lp, lamp post, lamppost
-lt, lecture theatre
-ltd, limited
-mans, mansion
-mbs, marina bay sands
-med, medical
-meth, methodist
-mfg, manufacturing
-min, ministry
-mkt, market
-mohd, muhd, moohammed, mahmad, mehmed, mahamed, mohamad, mohamed, mohammad, mohammed, muhamad, muhamed, muhamet, muhammed, muhammet, mahammud, mehmet, mahamid
-mque, mosque
-mt, mount
-natl, national
-no, number
-nth, north
-nuh, national university hospital
-opp, opposite
-pk, park
-pl, place
-po, post office
-poly, polytechnic
-pr, primary
-prep, preparatory
-proc, processing
-pt, point
-pte, private
-rd, road
-s'goon, serangoon
-s, shibuya
-sch, school
-sci, science
-sec, secondary
-sgh, singapore general hospital
-shop, shopping
-sim, singapore institute of management
-sma, singapore maritime academy
-sp, s,pore, singapore
-sq, square
-st, saint, street
-sth, south
-stn, station
-sub-stn, substation, sub station
-svc, service
-svcs, services
-swim, swimming
-tech, technology
-temp, temporary
-ter, terr, terrace
-tg, tanjong
-tp, temple
-trg, training
-trspt, transport
-twr, tower
-twrs, towers
-veh, vehicle
-warehse, warehouse
-wk, walk
+a'space => aerospace
+advent => adventist
+aft => after
+amk => ang mo kio
+apt => apartments
+architect => architecture
+ave => avenue
+bef => before
+bet => between
+biz => business
+bldg => building
+blk => block
+blks => blocks
+blvd => boulevard
+br => branch
+bt => bukit
+c,wealth => commonwealth
+cath => cathedral
+cc => community centre
+cck => choa chu kang
+center => centre
+ch => church
+checkpt => checkpoint
+chr => christian
+cl => close
+co => company
+comm => commission
+corp => corporation
+cp, car park => carpark
+cplx => complex
+cres => crescent
+ct => court
+ctr => centre
+ctrl => central
+div => division
+dp => distripark
+dr => drive
+engrg => engineering
+env => environment
+est => estate
+fac => faculty
+fc => food centre
+fty => factory
+gdn => garden
+gdns => gardens
+gov, govt => government
+gr => grove
+hme => home
+hosp => hospital
+hq => headquarters
+hse => house
+hts => heights
+ind => industrial
+insp => inspection
+inst => institute
+int => interchange
+intl => international
+jc => junior college
+jln => jalan
+lib => library
+lor => lorong
+lp, lamp post, street lamp => lamppost
+lt => lecture theatre
+ltd => limited
+mans => mansion
+mbs => marina bay sands
+med => medical
+meth => methodist
+mfg => manufacturing
+min => ministry
+mkt => market
+mohd, muhd
+mque => mosque
+mt => mount
+natl => national
+no => number
+nth => north
+nuh => national university hospital
+opp => opposite
+pk => park
+pl => place
+po => post office
+poly => polytechnic
+pr => primary
+prep => preparatory
+proc => processing
+pt => point
+pte => private
+rd => road
+s => shibuya
+s'goon => serangoon
+sch => school
+sci => science
+sec => secondary
+sgh => singapore general hospital
+shop => shopping
+sma => singapore maritime academy
+sp, s'pore => singapore
+sq => square
+st => street
+st. => saint
+sth => south
+stn => station
+sub-stn => substation
+svc => service
+svcs => services
+swim => swimming
+tech => technology
+temp => temporary
+ter, terr => terrace
+tg => tanjong
+tp => temple
+trg => training
+trspt => transport
+twr => tower
+twrs => towers
+veh => vehicle
+warehse => warehouse
+wk => walk
